@@ -1,0 +1,15 @@
+{
+	"name": "Iron wall",
+	"description": "Good nice wall!",
+	"type": "Wall",
+	"health": 666,
+	"size": 1,
+	"requirements": [
+		{"item": "iron", "amount":100}
+	],
+	"category": "Wall",
+	"research": "router"
+	
+	
+
+}
