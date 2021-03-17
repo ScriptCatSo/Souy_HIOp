@@ -3,4 +3,5 @@
 	"author": "ScriptCat",
 	"description": "My mod, this is small",
 	"version": 0.1
+	"minGameVersion": 122
 }
