@@ -7,7 +7,7 @@
 	"requirements": [
 		{"item": "gold", "amount":50}
 	],
-	"category": "Wall",
+	"category": "defense",
 	"research": "router"
 	
 	
