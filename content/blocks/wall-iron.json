@@ -7,7 +7,7 @@
 	"requirements": [
 		{"item": "iron", "amount":100}
 	],
-	"category": "Wall",
+	"category": "defense",
 	"research": "router"
 	
 	
